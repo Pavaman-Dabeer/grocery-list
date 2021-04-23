@@ -122,3 +122,18 @@ box-shadow: 0 5px 10px #272923;
     outline: none;
     cursor: pointer;
 }
+
+
+.alert{
+    color: white;
+    border-color: red;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.success{
+    color: white;
+    border-color: rgb(38,184,32);
+    display: block;
+    margin-bottom: 0.5rem;
+}
